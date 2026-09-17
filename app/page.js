@@ -543,8 +543,8 @@ function Footer() {
           <div>
             <h4 className="text-white font-bold mb-4">Contact</h4>
             <ul className="space-y-3 text-sm">
-              <li className="flex items-start gap-3"><MapPin className="w-4 h-4 text-yellow-300 mt-0.5 flex-shrink-0" /><span>C-Scheme, Jaipur, Rajasthan, India 302001</span></li>
-              <li className="flex items-center gap-3"><Mail className="w-4 h-4 text-yellow-300" /><a href="mailto:hello@growliner.com" className="hover:text-yellow-300">hello@growliner.com</a></li>
+              <li className="flex items-start gap-3"><MapPin className="w-4 h-4 text-yellow-300 mt-0.5 flex-shrink-0" /><span>Shastri Nagar, Jaipur, Rajasthan, 302016</span></li>
+              <li className="flex items-center gap-3"><Mail className="w-4 h-4 text-yellow-300" /><a href="mailto:growliner@gmail.com" className="hover:text-yellow-300">growliner@gmail.com</a></li>
               <li className="flex items-center gap-3"><Phone className="w-4 h-4 text-yellow-300" /><a href="tel:+919351076341" className="hover:text-yellow-300">+91 93510 76341</a></li>
             </ul>
           </div>
@@ -552,7 +552,7 @@ function Footer() {
           <div>
             <h4 className="text-white font-bold mb-4">Follow</h4>
             <ul className="space-y-3 text-sm">
-              <li><a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 hover:text-yellow-300"> Instagram</a></li>
+              <li><a href="https://instagram.com/grow.liner" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 hover:text-yellow-300"> Instagram</a></li>
               <li><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 hover:text-yellow-300"> LinkedIn</a></li>
             </ul>
             <div className="mt-6 p-4 rounded-xl bg-slate-800 border border-slate-700">
