@@ -13,6 +13,9 @@ export const metadata = {
   description: 'Growliner is a leading IT & digital growth agency in Jaipur. We build lightning-fast websites, intuitive mobile apps, and data-driven marketing campaigns to scale your brand globally.',
   keywords: 'web development Jaipur, app development, digital marketing agency, SEO Jaipur, UI UX design, React Next.js agency, growth partner',
   authors: [{ name: 'Growliner' }],
+  other: {
+    "google-site-verification": "INrNPIabSzBZmVQ_KIa-aZhXmhz5FlklbAzL0SBA1k4",
+    },
   openGraph: {
     title: 'Growliner - Tech & Growth Partner',
     description: 'Empowering Businesses with Next-Gen Tech & Digital Growth in Jaipur.',
